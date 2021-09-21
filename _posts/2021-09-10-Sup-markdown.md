@@ -12,9 +12,9 @@ comments: 我有冰淇淋
 
 ## 我有冰淇淋
 
-Here's some 我有冰淇淋:
+Here's some 冰淇淋:
 
-How about a yummy 我有冰淇淋?
+How about a yummy 冰淇淋?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
