@@ -7,3 +7,22 @@ tags : [HW]
 
 ## Good Design vs. Bad Design
 
+
+
+#### Good Design
+
+Write Paragraph Here
+
+#### Bad Design
+
+Write Paragraph Here
+
+
+
+
+
+
+
+
+
+_:)_
