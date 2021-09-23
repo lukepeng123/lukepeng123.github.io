@@ -19,7 +19,7 @@ tags : [HW]
 
   Do you ever feel like trying _Run Race 3D_? No? Well how about _Fun Race 3D_? Or _Fun Run 3D_? There are a ton of mobile games, and most of them now are made in 5 minutes or less, and are often a copy of another game. They are minimum effort games that do not last. Many games will have an element of originality or require an amount of skill to win, which will make a user want to keep going back. Many of the mobile games provide one motion for the entire game, which may keep a user satisfied for a few minutes befoe they look for another game. They have nothing that will want to make a user keep playing and are mostly not original whatsoever.
 
-
+![Image](/assets/img/Run Race 3D.png/)
 
 
 
