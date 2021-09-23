@@ -13,7 +13,7 @@ tags : [HW]
 
   Google (the web browser specifically) is used by pretty much everyone who has access to the internet. It's easy to use, helpful, and free. The internet has an enourmous amount of information that can be specific for someone's needs or just a quick fact. The easiest way to access this huge pool of information is by using a web browser. Being able to see images, defenifitions, and watch videos by typing a word into a program is extremeley helpful. Google also provides things like autocorrect through searches and will display related things to a search, making life much easier for the user.
 
- ![Image](assets/img/Google.png/)
+ ![Image](/assets/img/Google.png/)
 
 #### Bad Design
 
